@@ -1,4 +1,4 @@
-# Tampermoney Snippets
+# Tampermonkey Snippets
 Collection of snippets to automate website task.
 
 Supported Sites:
